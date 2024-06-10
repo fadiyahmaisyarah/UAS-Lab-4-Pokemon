@@ -14,3 +14,4 @@ Output:
 ![outputt](https://github.com/fadiyahmaisyarah/UAS-Lab-4-Pokemon/assets/167690668/d6c54901-bdbb-4cb0-acc8-14d923f5e813)
 
 
+Link video: https://drive.google.com/file/d/1G288kXUxkTA4wympUB7LgIPeyhsuxEW1/view?usp=sharing
